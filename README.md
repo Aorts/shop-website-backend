@@ -7,4 +7,5 @@ Implemented functionalities:
 - Upload images to server
 - CRUD operations on products
 - REST
+
 Working demo: http://krystiandzik.com/delikatesy-u-dzika/
